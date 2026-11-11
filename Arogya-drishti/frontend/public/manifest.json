@@ -1,0 +1,9 @@
+{
+  "name": "Aarogya Drishti",
+  "short_name": "Drishti",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef0f6",
+  "theme_color": "#12183a",
+  "lang": "en"
+}
